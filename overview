@@ -1,0 +1,40 @@
+Course Overview
+Welcome to RESTful API with HTTP and JavaScript. This is a project-based course which should take approximately 1 hour to finish. Before diving into the project, please take a look at the course objectives and structure:
+
+Course Objectives
+In this course, we are going to focus on five learning objectives:
+
+Learn about REST, test drive an API
+Learn how to send an HTTP request
+Learn how to format resources in JSON into HTML
+Learn how to handle bad data
+Learn how to handle bad user behaviours
+In this project you will take advantage of a search engine application interface created by a third party developer and create a useful recipe search engine web page that you can either use on your own computer or host it on the web to show to friends.
+
+By the end of the project, you will understand the principles of REST, API and write code in JavaScript to interface with other systems in web pages.
+
+Course Structure
+This course is divided into 3 parts:
+
+Course Overview: This introductory reading material.
+RESTful API with HTTP and JavaScript: This is the hands on project that we will work on in Rhyme.
+Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully.
+Project Structure
+The hands on project on RESTful API with HTTP and JavaScript is divided into following tasks:
+
+Task 1: Introduction and preview finished product
+Task 2: Learn about REST, test drive the API
+Task 3: Learn how to send an HTTP request
+Task 4: Learn how to format resources in JSON into HTML
+Task 5: Learn how to handle bad data
+Task 6: Learn how to handle bad user behaviours
+Meet the Instructor
+Harrison is a mobile application and website developer in the Los Angeles area. He has a bachelor degree of computer science from the University of Massachusetts. As a seasoned software engineer, he has spearheaded many technologies including media streaming, global positioning system, and remote vehicle control systems. You can find out more about him and his work at his website www.skyroute66.com.
+
+About Rhyme
+This course runs on Coursera's hands-on platform called Rhyme. On Rhyme, you do projects in a hands-on manner in your browser. You will get instant access to pre-configured cloud desktops that have all the software and data you will need. So, you can just focus on the learning. For this project, this means instant access to a cloud desktop with Python, Jupyter, and TensorFlow pre-installed.
+
+If you need help troubleshooting Rhyme, please refer to the Coursera Help Center for more information.
+
+Earn a Certificate
+After you have completed the RESTful API with HTTP and JavaScript hands-on project, you will be able to assess your knowledge using an ungraded assignment. Once you are comfortable with the concepts, take the final quiz, score higher than 80% to earn your certificate.
